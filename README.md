@@ -3,14 +3,15 @@
 This is a simple calculator application built using React and React Hooks. It allows users to perform basic arithmetic operations, view the calculation history, previous result and clear inputs.
 
 ## Hosted Link on Netlify
- - Click the Link to Preview <br/>
+https://react-calculator-hooks.netlify.app - Click the Link to Preview <br/>
+
+## YouTube Link
+https://youtu.be/RqSRAxUi_9s
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-
-## Demo
+- [Demo](#demo)
 
 ## Features
 - Addition, subtraction, multiplication, and division operations.
@@ -36,7 +37,7 @@ Follow these steps to set up and run the React Calculator App on your local mach
 1. Clone the repository:
 
    ```
-   git clone 
+   git clone https://github.com/erpankajk4/React-Calculaor-App.git
    cd react-calculator
    npm install
    ```
@@ -50,7 +51,8 @@ npm start
 ```
 The application should now be running at `http://localhost:3000`.
 
-
+## Demo
+![demo](https://github.com/erpankajk4/React-Calculaor-App/assets/118353291/63859281-8b1c-4d34-9b3c-2496701c1642)
 
 
 
